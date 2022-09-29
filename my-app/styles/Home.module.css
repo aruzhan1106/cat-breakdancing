@@ -4,6 +4,7 @@
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  margin-left: 100px;
   font-family: "Courier New", Courier, monospace;
 }
 
@@ -16,9 +17,9 @@
 }
 
 .image {
-  width: 70%;
+  width: 50%;
   height: 50%;
-  margin-left: 20%;
+  margin-left: 10%;
 }
 
 .title {
@@ -34,7 +35,7 @@
 
 .button {
   border-radius: 4px;
-  background-color: blue;
+  background-color: rgb(109, 24, 255);
   border: none;
   color: #ffffff;
   font-size: 15px;
